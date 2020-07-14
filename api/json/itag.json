@@ -1,0 +1,45 @@
+{
+  "version":"3003202005002",
+  "config":[
+    {
+      "name":"iTAG",
+      "global_distance":-73
+    },
+    {
+      "name":"devdev",
+      "global_distance":-100
+    }
+  ],
+  "device" : [
+        {
+          "mac_address":"FF:FF:B1:25:6D:80",
+          "name":"iTAG",
+          "title": "PC",
+          "position": "ผู้ช่วยพยาบาล"
+        },
+        {
+          "mac_address":"00:00:AB:CD:7E:EB",
+          "name":"devdev",
+          "title": "หูฟังของปลื้ม",
+          "position": "ผู้ช่วยพยาบาล"
+        },
+        {
+          "mac_address":"F6:74:96:54:8E:B6",
+          "name":"devdev",
+          "title": "นายปฏิพัทธ์ จันทร์รุ่งเรือง [Garmin]",
+          "position": "ผู้ช่วยพยาบาล"
+        },
+        {
+          "mac_address":"1C:52:16:99:3D:90",
+          "name":"devdev",
+          "title": "นายปฏิพัทธ์ จันทร์รุ่งเรือง [AirDot_R]",
+          "position": "ผู้ช่วยพยาบาล"
+        },
+        {
+          "mac_address":"00:02:05:05:02:53",
+          "name":"devdev",
+          "title": "นายปฏิพัทธ์ จันทร์รุ่งเรือง [Sound Peats]",
+          "position": "ผู้ช่วยพยาบาล"
+        }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "version":"3003202005001",
+    "device":[
+        {
+            "ordinal":1,
+            "device_id":"7e49d38c03225ea4",
+            "title":"101","title2":"ห้อง 101 [TX3 Mini]"
+        },        
+        {
+            "ordinal":2,
+            "device_id":"8eb9c6c70d3a9477",
+            "title":"102","title2":"ห้อง 101 [TX3 Mini]"
+        },
+        {
+            "ordinal":3,
+            "device_id":"50321a567585340f",
+            "title":"103","title2":"ห้อง 101 [TX3 Mini]"
+        }
+        ,
+        {
+            "ordinal":4,
+            "device_id":"50321a5675853499",
+            "title":"104","title2":"ห้อง 101 [TX3 Mini]"
+        }
+        
+
+    ]
+}
