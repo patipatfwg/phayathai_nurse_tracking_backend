@@ -146,7 +146,7 @@
     //Reload
     setInterval(function(){
         window.location.reload();
-    }, 10000);
+    }, 5000);
 
     //Showtime
     function AddZero(num) 
